@@ -1,4 +1,4 @@
-package hello.core.config;
+package hello.core;
 
 import hello.core.discount.DiscountPolicy;
 import hello.core.discount.RateDiscountPolicy;
